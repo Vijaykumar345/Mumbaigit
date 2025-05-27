@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Github testing is done today"
+echo "Github testing is done."
